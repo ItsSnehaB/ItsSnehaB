@@ -1,5 +1,12 @@
+![LOGO](https://github.com/ItsSnehaB/ItsSnehaB/blob/main/file.png)
+
+
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A Passionate Python Developer From India</h3>
+
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?w=253&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha&label=Profile%20views&color=0e75b6&style=flat" alt="sneha" /> </p>
 
