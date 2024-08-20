@@ -1,4 +1,4 @@
-![LOGO](https://github.com/ItsSnehaB/ItsSnehaB/blob/main/file.png)
+![LOGO](https://github.com/ItsSnehaB/ItsSnehaB/blob/main/2.png)
 
 
 <h1 align="center">Hi 👋, I'm Sneha</h1>
